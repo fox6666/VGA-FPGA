@@ -33,7 +33,7 @@
 ## 原理图
 ![原理图](https://github.com/fox6666/VGA-FPGA/blob/master/images/VGA.png "原理图")
 
-<div align=right>
+<div align=center>
     <img width="430" height="140" src="https://github.com/fox6666/VGA-FPGA/blob/master/images/VGA.png"/>
 </div>
 
