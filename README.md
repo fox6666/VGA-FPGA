@@ -31,14 +31,18 @@
     * 在屏幕上显示十字光标，指示画笔当前位置 (x, y)
 
 ## 原理图
-![原理图](https://github.com/fox6666/VGA-FPGA/blob/master/images/VGA.png "原理图")
-
-<img width="430" height="140" src="https://github.com/fox6666/VGA-FPGA/blob/master/images/VGA.png" align=center/>
+<div align=center>
+    <img width="430" height="140" src="https://github.com/fox6666/VGA-FPGA/blob/master/images/VGA.png" "原理图"/>
+</div>
 
 
 ## 参考资料
-    
-
+<div align=center>
+    <img width="430" height="140" src="https://github.com/fox6666/VGA-FPGA/blob/master/images/VGA1.png" "原理图"/>
+</div>    
+<div align=center>
+    <img width="430" height="140" src="https://github.com/fox6666/VGA-FPGA/blob/master/images/VGA2.png" "原理图"/>
+</div>
 
 
 
