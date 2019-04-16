@@ -32,16 +32,16 @@
 
 ## 原理图
 <div align=center>
-    <img width="430" height="140" src="https://github.com/fox6666/VGA-FPGA/blob/master/images/VGA.png" "原理图"/>
+    <img width="650" height="206" src="https://github.com/fox6666/VGA-FPGA/blob/master/images/VGA.png" "原理图"/>
 </div>
 
 
 ## 参考资料
 <div align=center>
-    <img width="430" height="140" src="https://github.com/fox6666/VGA-FPGA/blob/master/images/VGA1.png" "原理图"/>
+    <img width="657" height="425" src="https://github.com/fox6666/VGA-FPGA/blob/master/images/VGA1.png" "原理图"/>
 </div>    
 <div align=center>
-    <img width="430" height="140" src="https://github.com/fox6666/VGA-FPGA/blob/master/images/VGA2.png" "原理图"/>
+    <img width="375" height="474" src="https://github.com/fox6666/VGA-FPGA/blob/master/images/VGA2.png" "原理图"/>
 </div>
 
 
