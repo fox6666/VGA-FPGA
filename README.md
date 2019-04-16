@@ -2,6 +2,11 @@
 
 ## 存储器与显示控制器 
 
+## 原理图
+<div align=center>
+    <img width="650" height="206" src="https://github.com/fox6666/VGA-FPGA/blob/master/images/VGA.png" "原理图"/>
+</div>
+
 ## 实验内容
 
 * [**实验内容**]  
@@ -30,10 +35,6 @@
         * VRAM中的1个像素对应显示屏上1个像素
     * 在屏幕上显示十字光标，指示画笔当前位置 (x, y)
 
-## 原理图
-<div align=center>
-    <img width="650" height="206" src="https://github.com/fox6666/VGA-FPGA/blob/master/images/VGA.png" "原理图"/>
-</div>
 
 
 ## 参考资料
